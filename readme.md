@@ -2,4 +2,4 @@
 
 ## second heading
 
-### this header is even smaller. Haha, magic, no! Markdown
+### this header is even smaller. Haha, magic, no
